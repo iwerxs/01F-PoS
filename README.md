@@ -1,44 +1,80 @@
 # 01 Founders Programme of Study Reference Guide
 
-### Table of Contents
+<h3><a id="table-of-contents"></a>Table of Contents</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Compulsory</th>
+      <th><a href="#extension-projects">Extention Projects</a></th>
+      <th><a href="#specializations">Specializations</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#compulsory-golang-projects">Golang</a></td>
+      <td><a href="#go-extension-projects">Golang extentions</a></td>
+      <td><a href="#artificial-intelligence">A.I.</a></td>
+    </tr>
+    <tr>
+      <td><a href="#compulsory-javascript-projects">JavaScript</a></td>
+      <td><a href="#javascript-extension-projects">JS extensions</a></td>
+      <td><a href="#cloud-devops">Cloud DevOps</a></td>
+    </tr>
+    <tr>
+      <td><a href="#compulsory-rust-projects">Rust</a></td>
+      <td><a href="#rust-extension-projects">Rust extensions</a></td>
+      <td><a href="#cybersecurity">Cybersecurity</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="#algorithm">Algorithm</a></td>
+      <td><a href="#blockchain">Blockchain</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="#adminsys">AdminSys</a></td>
+      <td><a href="#mobile-applications">Mobile Applications</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><a href="#video-games">Video Games</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><a href="#java-full-stack">Java Full-Stack</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| Compulsory            | Extension Projects         | Specializations           |
-| --------------------- | -------------------------- | ------------------------- |
-| [Golang][go-comp]     | [Golang Extension][go-ext] | [A.I.][ai]                |
-| [JavaScript][js-comp] | [JS Extension][js-ext]     | [Cloud DevOps][devops]    |
-| [Rust][rust-comp]     | [Rust Extension][rust-ext] | [Cybersecurity][cybersec] |
-|                       | [Algorithm][algo]          | [Blockchain][blockchain]  |
-|                       | [AdminSys][admin-sys]      | [Mobile Apps][mobile]     |
-|                       |                            | [Video Games][games]      |
-|                       |                            | [Java Full-Stack][java]   |
+## <a href="#table-of-contents">↑</a> <a id="compulsory-golang-projects"></a>Compulsory Golang Projects
 
-## Compulsory Golang Projects <a href="#table-of-contents">↑</a>
+- [go-reloaded](https://github.com/01-edu/public/tree/master/subjects/go-reloaded)
 
-- go-reloaded
+- [git](https://github.com/01-edu/public/tree/master/subjects/git)
 
-- git
-
-- ascii-art
+- [ascii-art](https://github.com/01-edu/public/tree/master/subjects/ascii-art)
   - color
   - output
   - fs
   - justify
   - reverse
 
-- ascii-art-web
+- [ascii-art-web](https://github.com/01-edu/public/tree/master/subjects/ascii-art-web)
   - stylize
   - dockerize
-  - exportfile
+  - export-file
 
-- groupie-tracker
+- [groupie-tracker](https://github.com/01-edu/public/tree/master/subjects/groupie-tracker)
   - filters
   - geolocalization
   - visualizations
   - search-bar
 
-- lemin
+- [lem-in](https://github.com/01-edu/public/tree/master/subjects/lem-in)
 
-- forum
+- [forum](https://github.com/01-edu/public/tree/master/subjects/forum)
   - authentication
   - image upload
   - security
@@ -47,32 +83,30 @@
 
 ---
 
-<a href="#table-of-contents">top</a>
-
-## Compulsory JavaScript Projects <a href="#table-of-contents">↑</a>
+## <a href="#table-of-contents">↑</a> <a id="compulsory-javascript-projects"></a>Compulsory JavaScript Projects
 
 - piscine-js-up
 
-- make-your-game
+- [make-your-game](https://github.com/01-edu/public/tree/master/subjects/make-your-game)
   - score-handling
   - history
   - different-maps
 
-- real-time-forum
+- [real-time-forum](https://github.com/01-edu/public/tree/master/subjects/real-time-forum)
   - typing-in-progress
 
-- graphql
+- [graphql](https://github.com/01-edu/public/tree/master/subjects/graphql)
 
-- social-network
+- [social-network](https://github.com/01-edu/public/tree/master/subjects/social-network)
   - cross-platform-appimage
 
-- mini-framework
+- [mini-framework](https://github.com/01-edu/public/tree/master/subjects/mini-framework)
 
-- bomberman-dom
+- [bomberman-dom](https://github.com/01-edu/public/tree/master/subjects/bomberman-dom)
 
 ---
 
-## Compulsory Rust Projects <a href="#table-of-contents">↑</a>
+## <a href="#table-of-contents">↑</a> <a id="compulsory-rust-projects"></a>Compulsory Rust Projects
 
 - piscine-rust-up
 
@@ -88,9 +122,9 @@
 
 ---
 
-## Extension Projects [↑](#table-of-contents)
+## <a href="#table-of-contents">↑</a> <a id="extension-projects"></a>Extension Projects
 
-### Algorithm [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="algorithm"></a>Algorithm
 
 - math-skills
 
@@ -100,7 +134,7 @@
 
 - guess-it-2
 
-### AdminSys [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="adminsys"></a>AdminSys
 
 - check-point
 
@@ -117,7 +151,7 @@
 
 - scan
 
-### Go Extension Projects [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="go-extension-projects"></a>Go Extension Projects
 
 - tetris-optimizer
 
@@ -129,7 +163,7 @@
 
 - net-cat
 
-### JavaScript Extension Projects [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="javascript-extension-projects"></a>JavaScript Extension Projects
 
 - [stock-exchange-sim](https://github.com/01-edu/public/tree/master/subjects/stock-exchange-sim)
 
@@ -155,21 +189,23 @@
 
 - java-checkpoint
 
-### Rust Extension Projects [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="rust-extension-projects"></a>Rust Extension Projects
 
-- wget
+- [wget](https://github.com/01-edu/public/tree/master/subjects/wget)
 
-- system-monitor
+- [system-monitor](https://github.com/01-edu/public/tree/master/subjects/system-monitor)
 
-- zappy
+- [zappy](https://github.com/01-edu/public/tree/master/subjects/zappy)
 
-- corewar
+- [corewar](https://github.com/01-edu/public/tree/master/subjects/corewar)
 
 - make-your-own
 
-## Specializations [↑](#table-of-contents)
+## <a href="#table-of-contents">↑</a> <a id="specializations"></a>Specializations
 
-### [Artifical Intelligence](https://github.com/01-edu/public/tree/master/subjects/ai) [↑](#table-of-contents)
+<!-- ### <a id="artificial-intelligence"></a>[Artificial Intelligence](https://github.com/01-edu/public/tree/master/subjects/ai) <a href="#table-of-contents">↑</a> -->
+
+### <a href="#table-of-contents">↑</a> <a id="artificial-intelligence"></a>Artificial Intelligence [↗](https://github.com/01-edu/public/tree/master/subjects/ai)
 
 - piscine-ai
 
@@ -185,7 +221,7 @@
 
 ---
 
-### [Cloud DevOps](https://github.com/01-edu/public/tree/master/subjects/devops) [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="cloud-devops"></a>Cloud DevOps [↗](https://github.com/01-edu/public/tree/master/subjects/devops)
 
 - [deep-in-net](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-net)
 
@@ -203,21 +239,21 @@
 
 ---
 
-### Cybersecurity [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="cybersecurity"></a>Cybersecurity [↗](https://github.com/01-edu/public/tree/master/subjects/cybersecurity)
 
-- passive
+- [passive](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/passive)
 
-- inspector-image
+- [image-inspector](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/image-inspector)
 
-- active
+- [active](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/active)
 
-- local
+- [local](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/local)
 
-- web-hack
+- [web-hack](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/web-hack)
 
-- injector
+- [injector](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/injector)
 
-- hole-in-bin
+- [hole-in-bin](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/hole-in-bin)
 
 - mal-track
 
@@ -229,7 +265,7 @@
 
 ---
 
-### [Blockchain](https://github.com/01-edu/public/tree/master/subjects/blockchain) [↑](#table-of-contents)
+### <a href="#table-of-contents">↑</a> <a id="blockchain"></a>Blockchain [↗](https://github.com/01-edu/public/tree/master/subjects/blockchain)
 
 - piscine-blockchain
 
@@ -243,7 +279,7 @@
 
 ---
 
-### Mobile Applications [↑](#table-of-contents)
+### Mobile Applications <a href="#table-of-contents">↑</a>
 
 - piscine-flutter
 
@@ -261,7 +297,7 @@
 
 ---
 
-### Video Games [↑](#table-of-contents)
+### Video Games <a href="#table-of-contents">↑</a>
 
 - firing-range
 
@@ -285,7 +321,7 @@
 
 ---
 
-### Java Full-Stack [↑](#table-of-contents)
+### Java Full-Stack <a href="#table-of-contents">↑</a>
 
 - lets-play
 
@@ -308,21 +344,3 @@
 - lets-travel
 
 ---
-
-<!-- Link Variable Definitions -->
-
-[go-comp]: #compulsory-golang-projects
-[js-comp]: #compulsory-javascript-projects
-[rust-comp]: #compulsory-rust-projects
-[go-ext]: #go-extension-projects
-[js-ext]: #javascript-extension-projects
-[rust-ext]: #rust-extension-projects
-[algo]: #algorithm
-[admin-sys]: #adminsys
-[ai]: #artifical-intelligence
-[devops]: #cloud-devops
-[cybersec]: #cybersecurity
-[blockchain]: #blockchain
-[mobile]: #mobile-applications
-[games]: #video-games
-[java]: #java-full-stack
