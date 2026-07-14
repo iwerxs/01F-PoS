@@ -2,17 +2,17 @@
 
 ### Table of Contents
 
-| Compulsory                                    | [Extension Projects](#extension-projects)       | [Specializations](#specializations)         |
-| --------------------------------------------- | ----------------------------------------------- | ------------------------------------------- |
-| [Golang](#compulsory-golang-projects)         | [Golang extentions](#go-extension-projects)     | [A.I.](#artifical-intelligence)             |
-| [JavaScript](#compulsory-javascript-projects) | [JS extensions](#javascript-extension-projects) | [Cloud DevOps](#cloud-devops)               |
-| [Rust](#compulsory-rust-projects)             | [Rust extensions](#rust-extension-projects)     | [Cybersecurity](#cybersecurity)             |
-|                                               | [Algorithm](#algorithm)                         | [Blockchain](#blockchain)                   |
-|                                               | [AdminSys](#adminsys)                           | [Mobile Applications](#mobile-applications) |
-|                                               |                                                 | [Video Games](#video-games)                 |
-|                                               |                                                 | [Java Full-Stack](#java-full-stack)         |
+| Compulsory            | Extension Projects         | Specializations           |
+| --------------------- | -------------------------- | ------------------------- |
+| [Golang][go-comp]     | [Golang Extension][go-ext] | [A.I.][ai]                |
+| [JavaScript][js-comp] | [JS Extension][js-ext]     | [Cloud DevOps][devops]    |
+| [Rust][rust-comp]     | [Rust Extension][rust-ext] | [Cybersecurity][cybersec] |
+|                       | [Algorithm][algo]          | [Blockchain][blockchain]  |
+|                       | [AdminSys][admin-sys]      | [Mobile Apps][mobile]     |
+|                       |                            | [Video Games][games]      |
+|                       |                            | [Java Full-Stack][java]   |
 
-## Compulsory Golang Projects [↑](#table-of-contents)
+## Compulsory Golang Projects <a href="#table-of-contents">↑</a>
 
 - go-reloaded
 
@@ -47,7 +47,9 @@
 
 ---
 
-## Compulsory JavaScript Projects [↑](#table-of-contents)
+<a href="#table-of-contents">top</a>
+
+## Compulsory JavaScript Projects <a href="#table-of-contents">↑</a>
 
 - piscine-js-up
 
@@ -70,7 +72,7 @@
 
 ---
 
-## Compulsory Rust Projects [↑](#table-of-contents)
+## Compulsory Rust Projects <a href="#table-of-contents">↑</a>
 
 - piscine-rust-up
 
@@ -306,3 +308,21 @@
 - lets-travel
 
 ---
+
+<!-- Link Variable Definitions -->
+
+[go-comp]: #compulsory-golang-projects
+[js-comp]: #compulsory-javascript-projects
+[rust-comp]: #compulsory-rust-projects
+[go-ext]: #go-extension-projects
+[js-ext]: #javascript-extension-projects
+[rust-ext]: #rust-extension-projects
+[algo]: #algorithm
+[admin-sys]: #adminsys
+[ai]: #artifical-intelligence
+[devops]: #cloud-devops
+[cybersec]: #cybersecurity
+[blockchain]: #blockchain
+[mobile]: #mobile-applications
+[games]: #video-games
+[java]: #java-full-stack
