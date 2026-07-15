@@ -297,27 +297,27 @@
 
 ---
 
-### Video Games <a href="#table-of-contents">↑</a>
+### <a href="#table-of-contents">↑</a><a id="video-games"></a> Video Games [↗](https://github.com/01-edu/public/tree/master/subjects/gaming)
 
-- firing-range
+- [firing-range](https://github.com/01-edu/public/tree/master/subjects/gaming/firing-range)
 
-- widget-factory
+- [widget-factory](https://github.com/01-edu/public/tree/master/subjects/gaming/widget-factory)
 
-- army-of-one
+- [army-of-one](https://github.com/01-edu/public/tree/master/subjects/gaming/army-of-one)
 
-- zombie-ai
+- [zombie-ai](https://github.com/01-edu/public/tree/master/subjects/gaming/zombie-ai)
 
-- nascar-online-alpha
+- [nascar-online-alpha](https://github.com/01-edu/public/tree/master/subjects/gaming/nascar-online-alpha)
 
-- mouse-vr
+- [mouse-vr](https://github.com/01-edu/public/tree/master/subjects/gaming/mouse-vr)
 
-- the-pages
+- [the-pages](https://github.com/01-edu/public/tree/master/subjects/gaming/the-pages)
 
-- stealth-boom
+- [stealth-boom](https://github.com/01-edu/public/tree/master/subjects/gaming/stealth-boom)
 
-- jumbo
+- [jumpo](https://github.com/01-edu/public/tree/master/subjects/gaming/jumpo)
 
-- vehicle-physics
+- [vehicle-physics](https://github.com/01-edu/public/tree/master/subjects/gaming/vehicle-physics)
 
 ---
 
