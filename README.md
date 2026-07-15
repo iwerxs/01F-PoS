@@ -50,6 +50,8 @@
 
 ## <a href="#table-of-contents">↑</a> <a id="compulsory-golang-projects"></a>Compulsory Golang Projects
 
+- Golang Piscine 3 weeks
+
 - [go-reloaded](https://github.com/01-edu/public/tree/master/subjects/go-reloaded)
 
 - [git](https://github.com/01-edu/public/tree/master/subjects/git)
@@ -85,7 +87,7 @@
 
 ## <a href="#table-of-contents">↑</a> <a id="compulsory-javascript-projects"></a>Compulsory JavaScript Projects
 
-- piscine-js-up
+- JavaScript Piscine 3 weeks
 
 - [make-your-game](https://github.com/01-edu/public/tree/master/subjects/make-your-game)
   - score-handling
@@ -108,7 +110,7 @@
 
 ## <a href="#table-of-contents">↑</a> <a id="compulsory-rust-projects"></a>Compulsory Rust Projects
 
-- piscine-rust-up
+- Rust Piscine
 
 - [smart-road](https://github.com/01-edu/public/tree/master/subjects/smart-road)
 
