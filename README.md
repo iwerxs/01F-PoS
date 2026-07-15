@@ -139,7 +139,7 @@
 - check-point
 
 - [linux](https://github.com/01-edu/public/tree/master/subjects/linux)
-  - requires completion of '0-shell' project from [Rust](#compulsory-rust-projects-)
+  - requires completion of '0-shell' project from <a href="#compulsory-rust-projects">Rust</a>
 
 - [login](https://github.com/01-edu/public/tree/master/subjects/login)
 
@@ -321,26 +321,26 @@
 
 ---
 
-### Java Full-Stack <a href="#table-of-contents">↑</a>
+### <a href="#table-of-contents">↑</a><a id="java-full-stack"></a> Java Full-Stack [↗](https://github.com/01-edu/public/tree/master/subjects/java)
 
-- lets-play
+- [lets-play](https://github.com/01-edu/public/tree/master/subjects/java/projects/lets-play)
 
-- angul-it
+- [angul-it](https://github.com/01-edu/public/tree/master/subjects/java/projects/angul-it)
 
-- buy-01
+- [buy-01](https://github.com/01-edu/public/tree/master/subjects/java/projects/buy-01)
 
-- mr-jenk
+- [mr-jenk](https://github.com/01-edu/public/tree/master/subjects/java/projects/mr-jenk)
 
-- safe-zone
+- [safe-zone](https://github.com/01-edu/public/tree/master/subjects/java/projects/safe-zone)
 
-- buy-02
+- [buy-02](https://github.com/01-edu/public/tree/master/subjects/java/projects/buy-02)
 
-- nexus
+- [nexus](https://github.com/01-edu/public/tree/master/subjects/java/projects/nexus)
 
-- ne0-4-flix
+- [neo-4-flix](https://github.com/01-edu/public/tree/master/subjects/java/projects/neo4flix)
 
-- travel-plan
+- [travel-plan](https://github.com/01-edu/public/tree/master/subjects/java/projects/travel-plan)
 
-- lets-travel
+- [lets-travel](https://github.com/01-edu/public/tree/master/subjects/java/projects/lets-travel)
 
 ---
