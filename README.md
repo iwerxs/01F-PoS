@@ -279,21 +279,21 @@
 
 ---
 
-### Mobile Applications <a href="#table-of-contents">↑</a>
+### <a href="#table-of-contents">↑</a><a id="mobile-applications"></a> Mobile Applications [↗](https://github.com/01-edu/public/tree/master/subjects/mobile-dev)
 
 - piscine-flutter
 
-- twenty-forty-eighty
+- [twenty-forty-eighty](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/twenty-forty-eight)
 
-- sky-map
+- [sky-map](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/sky-map)
 
-- chess
+- [chess](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/chess)
 
-- kaquiz
+- [kaquiz](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/kaquiz)
 
-- stock-market
+- [stock-market](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/stock-market)
 
-- secure-messenger
+- [secure-messenger](https://github.com/01-edu/public/tree/master/subjects/mobile-dev/secure-messenger)
 
 ---
 
