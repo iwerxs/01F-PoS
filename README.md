@@ -110,15 +110,15 @@
 
 - piscine-rust-up
 
-- smart-road
+- [smart-road](https://github.com/01-edu/public/tree/master/subjects/smart-road)
 
-- filler
+- [filler](https://github.com/01-edu/public/tree/master/subjects/filler)
 
-- rt
+- [rt](https://github.com/01-edu/public/tree/master/subjects/rt)
 
-- multiplayer-fps
+- [multiplayer-fps](https://github.com/01-edu/public/tree/master/subjects/multiplayer-fps)
 
-- 0-shell
+- [0-shell](https://github.com/01-edu/public/tree/master/subjects/0-shell)
 
 ---
 
@@ -126,42 +126,42 @@
 
 ### <a href="#table-of-contents">↑</a> <a id="algorithm"></a>Algorithm
 
-- math-skills
+- [math-skills](https://github.com/01-edu/public/tree/master/subjects/math-skills)
 
-- guess-it-1
+- [guess-it-1](https://github.com/01-edu/public/tree/master/subjects/guess-it-1)
 
-- linear-stats
+- [linear-stats](https://github.com/01-edu/public/tree/master/subjects/linear-stats)
 
-- guess-it-2
+- [guess-it-2](https://github.com/01-edu/public/tree/master/subjects/guess-it-2)
 
 ### <a href="#table-of-contents">↑</a> <a id="adminsys"></a>AdminSys
 
 - check-point
 
-- linux
+- [linux](https://github.com/01-edu/public/tree/master/subjects/linux)
   - requires completion of '0-shell' project from [Rust](#compulsory-rust-projects-)
 
-- login
+- [login](https://github.com/01-edu/public/tree/master/subjects/login)
 
-- add-vm
+- [add-vm](https://github.com/01-edu/public/tree/master/subjects/add-vm)
 
-- connect
+- [connect](https://github.com/01-edu/public/tree/master/subjects/connect)
 
-- remote
+- [remote](https://github.com/01-edu/public/tree/master/subjects/remote)
 
-- scan
+- [scan](https://github.com/01-edu/public/tree/master/subjects/scan)
 
 ### <a href="#table-of-contents">↑</a> <a id="go-extension-projects"></a>Go Extension Projects
 
-- tetris-optimizer
+- [tetris-optimizer](https://github.com/01-edu/public/tree/master/subjects/tetris-optimizer)
 
-- atm-management-system
+- [atm-management-system](https://github.com/01-edu/public/tree/master/subjects/atm-management-system)
 
-- push-swap
+- [push-swap](https://github.com/01-edu/public/tree/master/subjects/push-swap)
 
-- my-ls-1
+- [my-ls-1](https://github.com/01-edu/public/tree/master/subjects/my-ls-1)
 
-- net-cat
+- [net-cat](https://github.com/01-edu/public/tree/master/subjects/net-cat)
 
 ### <a href="#table-of-contents">↑</a> <a id="javascript-extension-projects"></a>JavaScript Extension Projects
 
@@ -255,13 +255,13 @@
 
 - [hole-in-bin](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/hole-in-bin)
 
-- mal-track
+- [mal-track](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/mal-track)
 
-- evasion
+- [evasion](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/evasion)
 
-- obfuscator
+- [obfuscator](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/obfuscator)
 
-- malware
+- [malware](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/malware)
 
 ---
 
