@@ -223,6 +223,14 @@
 
 ### <a href="#table-of-contents">↑</a> <a id="cloud-devops"></a>Cloud DevOps [↗](https://github.com/01-edu/public/tree/master/subjects/devops)
 
+- DevOps Piscine
+  - command-line
+  - unix
+  - unix-plus-plus
+  - shell-scripting
+  - python-snake
+  - yellow-blue-snake
+
 - [deep-in-net](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-net)
 
 - [deep-in-system](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-system)
