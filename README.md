@@ -209,7 +209,7 @@
 
 ### <a href="#table-of-contents">↑</a> <a id="artificial-intelligence"></a>Artificial Intelligence [↗](https://github.com/01-edu/public/tree/master/subjects/ai)
 
-- piscine-ai
+- [piscine-ai](https://github.com/01-edu/public/tree/master/subjects/AI.GO)
 
 - [kaggle-titanic](https://github.com/01-edu/public/tree/master/subjects/ai/kaggle-titanic)
 
