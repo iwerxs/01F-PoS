@@ -5,14 +5,14 @@
   <thead>
     <tr>
       <th>Compulsory</th>
-      <th><a href="#extension-projects">Extention Projects</a></th>
+      <th><a href="#extension-projects">Extension Projects</a></th>
       <th><a href="#specializations">Specializations</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="#compulsory-golang-projects">Golang</a></td>
-      <td><a href="#go-extension-projects">Golang extentions</a></td>
+      <td><a href="#go-extension-projects">Golang extensions</a></td>
       <td><a href="#artificial-intelligence">A.I.</a></td>
     </tr>
     <tr>
