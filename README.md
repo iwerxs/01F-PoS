@@ -211,6 +211,8 @@
 
 - [piscine-ai](https://github.com/01-edu/public/tree/master/subjects/AI.GO)
 
+  - [A.I. Piscine Tasks](AI-piscine-tasks.md)
+
 - [kaggle-titanic](https://github.com/01-edu/public/tree/master/subjects/ai/kaggle-titanic)
 
 - [nlp-scraper](https://github.com/01-edu/public/tree/master/subjects/ai/nlp-scraper)
