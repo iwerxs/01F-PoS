@@ -121,6 +121,9 @@
 - [multiplayer-fps](https://github.com/01-edu/public/tree/master/subjects/multiplayer-fps)
 
 - [0-shell](https://github.com/01-edu/public/tree/master/subjects/0-shell)
+  
+  - [scripting](https://github.com/01-edu/public/tree/master/subjects/0-shell/scripting)
+  - [job-control](https://github.com/01-edu/public/tree/master/subjects/0-shell/job-control)
 
 ---
 
