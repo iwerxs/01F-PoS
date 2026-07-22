@@ -52,31 +52,31 @@
 
 - Golang Piscine 3 weeks
 
-- [go-reloaded](https://github.com/01-edu/public/tree/master/subjects/go-reloaded)
+- [go-reloaded](https://github.com/01-edu/public/tree/master/subjects/go-reloaded) 1 week to complete
 
-- [git](https://github.com/01-edu/public/tree/master/subjects/git)
+- [git](https://github.com/01-edu/public/tree/master/subjects/git) 1 week to complete
 
-- [ascii-art](https://github.com/01-edu/public/tree/master/subjects/ascii-art)
+- [ascii-art](https://github.com/01-edu/public/tree/master/subjects/ascii-art) 3 weeks to complete
   - color
   - output
   - fs
   - justify
   - reverse
 
-- [ascii-art-web](https://github.com/01-edu/public/tree/master/subjects/ascii-art-web)
+- [ascii-art-web](https://github.com/01-edu/public/tree/master/subjects/ascii-art-web) 3 weeks to complete
   - stylize
   - dockerize
   - export-file
 
-- [groupie-tracker](https://github.com/01-edu/public/tree/master/subjects/groupie-tracker)
+- [groupie-tracker](https://github.com/01-edu/public/tree/master/subjects/groupie-tracker) 4 weeks to complete
   - filters
   - geolocalization
   - visualizations
   - search-bar
 
-- [lem-in](https://github.com/01-edu/public/tree/master/subjects/lem-in)
+- [lem-in](https://github.com/01-edu/public/tree/master/subjects/lem-in) 4 weeks to complete
 
-- [forum](https://github.com/01-edu/public/tree/master/subjects/forum)
+- [forum](https://github.com/01-edu/public/tree/master/subjects/forum) 8 weeks to complete
   - authentication
   - image upload
   - security
@@ -89,22 +89,22 @@
 
 - JavaScript Piscine 3 weeks
 
-- [make-your-game](https://github.com/01-edu/public/tree/master/subjects/make-your-game)
+- [make-your-game](https://github.com/01-edu/public/tree/master/subjects/make-your-game) 4 weeks to complete
   - score-handling
   - history
   - different-maps
 
-- [real-time-forum](https://github.com/01-edu/public/tree/master/subjects/real-time-forum)
+- [real-time-forum](https://github.com/01-edu/public/tree/master/subjects/real-time-forum) 4 weeks to complete
   - typing-in-progress
 
-- [graphql](https://github.com/01-edu/public/tree/master/subjects/graphql)
+- [graphql](https://github.com/01-edu/public/tree/master/subjects/graphql) 2 weeks to complete
 
-- [social-network](https://github.com/01-edu/public/tree/master/subjects/social-network)
+- [social-network](https://github.com/01-edu/public/tree/master/subjects/social-network) 8 weeks to complete
   - cross-platform-appimage
 
-- [mini-framework](https://github.com/01-edu/public/tree/master/subjects/mini-framework)
+- [mini-framework](https://github.com/01-edu/public/tree/master/subjects/mini-framework) 2 weeks to complete
 
-- [bomberman-dom](https://github.com/01-edu/public/tree/master/subjects/bomberman-dom)
+- [bomberman-dom](https://github.com/01-edu/public/tree/master/subjects/bomberman-dom) 4 weeks to complete
 
 ---
 
@@ -112,15 +112,15 @@
 
 - Rust Piscine
 
-- [smart-road](https://github.com/01-edu/public/tree/master/subjects/smart-road)
+- [smart-road](https://github.com/01-edu/public/tree/master/subjects/smart-road) 4 weeks to complete
 
-- [filler](https://github.com/01-edu/public/tree/master/subjects/filler)
+- [filler](https://github.com/01-edu/public/tree/master/subjects/filler) 6 weeks to complete
 
-- [rt](https://github.com/01-edu/public/tree/master/subjects/rt)
+- [rt](https://github.com/01-edu/public/tree/master/subjects/rt) 4 weeks to complete
 
-- [multiplayer-fps](https://github.com/01-edu/public/tree/master/subjects/multiplayer-fps)
+- [multiplayer-fps](https://github.com/01-edu/public/tree/master/subjects/multiplayer-fps) 8 weeks to complete
 
-- [0-shell](https://github.com/01-edu/public/tree/master/subjects/0-shell)
+- [0-shell](https://github.com/01-edu/public/tree/master/subjects/0-shell) 2 weeks to complete
   
   - [scripting](https://github.com/01-edu/public/tree/master/subjects/0-shell/scripting)
   - [job-control](https://github.com/01-edu/public/tree/master/subjects/0-shell/job-control)
