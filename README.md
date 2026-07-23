@@ -48,6 +48,10 @@
   </tbody>
 </table>
 
+---
+
+Time to complete each project task is guided, and subject to change.
+
 ## <a href="#table-of-contents">↑</a> <a id="compulsory-golang-projects"></a>Compulsory Golang Projects
 
 - Golang Piscine 3 weeks
